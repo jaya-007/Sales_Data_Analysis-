@@ -9,16 +9,16 @@ Analyze the sales performance of a hypothetical retail store to understand sales
 ### Basic Data Analysis Using Excel
 - Sorting and Filtering Data to see which products or salespeople are contributing the most to sales.
 - Calculating Total and Average Sales by excel inbuilt functions.
-    -Total Sales: =SUM(E2:E7)
-    -Average Sales per Order: =AVERAGE(E2:E7)
+    - Total Sales: =SUM(E2:E7)
+    - Average Sales per Order: =AVERAGE(E2:E7)
 - Creating PivotTables to summarize data.
-    -Sales by Product
-    -Sales by Region
-    -Sales over Time
+    - Sales by Product
+    - Sales by Region
+    - Sales over Time
 - Data Visualization
-    -Bar or Column Chart to indicate Total Sales by Product
-    -Pie Chart for Sales by Region
-    -Line Chart to observe sales trends over time
+    - Bar or Column Chart to indicate Total Sales by Product
+    - Pie Chart for Sales by Region
+    - Line Chart to observe sales trends over time
 ### Insights
 -  Which product category generates the most sales?
       - Laptop
