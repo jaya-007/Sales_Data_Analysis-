@@ -4,8 +4,8 @@
 Analyze the sales performance of a hypothetical retail store to understand sales trends, best-selling products, and customer patterns.
 
 ### Data Cleaning
-1.Ensure data consistency: Checking for the missing or duplicate values, and fixing those by filling in missing data or removing duplicates.
-2.Formatting the columns: Like, Date is in a proper date format, defining the proper data type to each col.
+- Ensure data consistency: Checking for the missing or duplicate values, and fixing those by filling in missing data or removing duplicates.
+- Formatting the columns: Like, Date is in a proper date format, defining the proper data type to each col.
 ### Basic Data Analysis Using Excel
 - Sorting and Filtering Data to see which products or salespeople are contributing the most to sales.
 - Calculating Total and Average Sales by excel inbuilt functions.
