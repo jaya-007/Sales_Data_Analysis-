@@ -23,7 +23,7 @@ Analyze the sales performance of a hypothetical retail store to understand sales
 -  Which product category generates the most sales?
       - Laptop
 -  Which salesperson performs the best, and in which region?
-      - Charlie
+      - Charlie @ North America
     ![Screenshot (684)](https://github.com/user-attachments/assets/39608596-4ba4-44c3-bf3b-8135e47c54a1)
 
 
